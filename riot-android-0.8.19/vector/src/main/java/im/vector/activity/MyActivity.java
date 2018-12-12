@@ -13,6 +13,7 @@ public class MyActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.myactivity);
     }
+    public void test(){;}
     public void onClick3(View view)
     {
         finish();
